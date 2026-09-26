@@ -1,0 +1,16 @@
+# Maze Solver and Visualizer — Requirements
+#
+# This project uses ONLY the Python standard library.
+# No third-party pip packages are required!
+#
+# Built-in Standard Library modules utilized:
+# - tkinter (GUI and 2D Canvas rendering)
+# - collections.deque (FIFO Queue for BFS)
+# - heapq (Min-Heap Priority Queue for Dijkstra and A*)
+# - time (High-precision performance measurement via time.perf_counter)
+# - random (Procedural maze generation and shuffling)
+# - unittest (Automated test suite)
+# - typing (Type annotations and code quality)
+#
+# Requirements:
+# Python >= 3.8 (with Tkinter installed)
